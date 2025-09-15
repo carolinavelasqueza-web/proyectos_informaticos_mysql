@@ -1,3 +1,17 @@
+-- =============================================================
+-- Sistema de Gestión de Proyectos - Inicialización de Base de Datos
+-- Autores: 
+--   Carolina Velasquez Avila
+--   Johnatan Velez
+--   Gabriel Eduardo Villarreal
+-- Fecha: 2025-09-14
+-- Descripción:
+--   Este script crea la estructura inicial de la base de datos 'proyectos_informaticos',
+--   incluyendo tablas (docente, proyecto), procedimientos almacenados (CRUD),
+--   triggers de auditoría y una función escalar (promedio de experiencia).
+--   También incluye datos de prueba iniciales.
+-- =============================================================
+
 --- Desarrollo de un Sistema de Gestión de Proyectos con CRUD, Funciones y Auditoría mediante Triggers en MySQL.
 
 ## 1. Procedimientos Almacenados (CRUD)  
